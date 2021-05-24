@@ -11,7 +11,7 @@ I am a fully stacked discord developer, knowing discord py and soon to learn dis
 - 🤔 I’m looking for new ideas on future tools
 - 📫 How to reach me: Contact my discord above
 - 😄 Pronouns: Him/He
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ Fun fact: I play games and code and also heads up ur mums lacking
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
