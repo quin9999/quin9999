@@ -8,7 +8,7 @@ I am a fully stacked discord developer, knowing discord py and soon to learn dis
 
 - 🔭 I’m currently working on Anarchy Selfbot
 - :computer: Most used line of code `print("I love python haha")`
-- 🤔 I’m looking for new ideas on future pro
+- 🤔 I’m looking for new ideas on future tools
 - 📫 How to reach me: Contact my discord above
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I play games and go to the GYM very often.
@@ -16,6 +16,23 @@ I am a fully stacked discord developer, knowing discord py and soon to learn dis
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![Python Badge](https://img.shields.io/badge/-Python-336E9E?style=for-the-badge&labelColor=black&logo=python&logoColor=336E9E)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-555588?style=for-the-badge&labelColor=black&logo=javascript&logoColor=555588)](#)
+
+I love hearing new suggestions on what i can make, not only that I also like teaching people things they are not sure about. So just hmu w a dm on cord and im sure i will be happy to help :D
+  
+Some projects im currently workking on are:
+  
+- Anarchy (my discord selfbot) will soon be realeased to public.
+- Custom RDP {Note - Customizable w alot of features}
+- Custom Auto-Changing Status
+
+Many more to come in the future too.
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<br >
 
 ### Coding Stats
 
