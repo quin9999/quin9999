@@ -20,6 +20,9 @@ I am a fully stacked discord developer, knowing discord py and soon to learn dis
 ### Coding Stats
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ### Github Stats
