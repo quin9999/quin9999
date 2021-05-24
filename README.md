@@ -16,3 +16,11 @@ I am a fully stacked discord developer, knowing discord py and soon to learn dis
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![Python Badge](https://img.shields.io/badge/-Python-336E9E?style=for-the-badge&labelColor=black&logo=python&logoColor=336E9E)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-555588?style=for-the-badge&labelColor=black&logo=javascript&logoColor=555588)](#)
+
+###Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+###Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quin9999&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
