@@ -7,7 +7,7 @@ I am a fully stacked discord developer, knowing discord py and soon to learn dis
 [![Discord Badge](https://img.shields.io/badge/-quin9999-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=white)](#) [![Twitter Badge](https://img.shields.io/badge/-@quin4dev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](#)
 
 - 🔭 I’m currently working on Anarchy Selfbot
-- :computer: Most used line of code `print("I love python haha")`
+- :computer: Most used line of code `print("python is ez")`
 - 🤔 I’m looking for new ideas on future tools
 - 📫 How to reach me: Contact my discord above
 - 😄 Pronouns: Him/He
