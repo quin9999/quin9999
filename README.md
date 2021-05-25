@@ -38,7 +38,8 @@ Many more to come in the future too.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python   1 hr 6 mins     ███████████████████▓░░░░░   79.21 % 
+JSON     17 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.79 % 
 ```
 <!--END_SECTION:waka-->
 
