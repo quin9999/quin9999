@@ -38,8 +38,8 @@ Many more to come in the future too.
 
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 29 mins    █████████████████████░░░░   83.54 % 
-JSON     17 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Python   2 hrs 41 mins   ██████████████████████▓░░   90.17 % 
+JSON     17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
 ```
 <!--END_SECTION:waka-->
 
