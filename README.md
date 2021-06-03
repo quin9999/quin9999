@@ -38,7 +38,7 @@ Many more to come in the future too.
 
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 22 mins    █████████████████████████   100.00 % 
+Python   10 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
